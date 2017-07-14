@@ -1,0 +1,25 @@
+<html>
+<head>
+</head>
+<body>
+
+<script type = "text/javascript">
+
+function getName(){
+//gets the name of the person 
+}
+
+function getjob(){
+//gets the job of the person
+}
+function getEmail(){
+//gets the mail
+}
+function getPhone(){
+//gets the nember 
+}
+
+</scrtpt>
+
+</body>
+</html>
